@@ -20,7 +20,7 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/" target="_blank"><img align="left" alt="GCP"  src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" alt="GCP" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://ih1.redbubble.net/image.3674846957.9428/st,small,845x845-pad,1000x1000,f8f8f8.jpg" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 

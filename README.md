@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jason Chuang</h1>
-<h3 align="center">A professional who is good at artificial intelligence, machine learning, big data analytics, and parallel computing</h3>
+<h3 align="center">A professional who is good at artificial intelligence, machine learning, data engineering, and big data analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangtc&label=Profile%20views&color=0e75b6&style=flat" alt="chuangtc" /> </p>
 
+- 🎓 Google Cloud Certified Professional Data Engineeer
+ 
 - 👨‍💻 All of my projects are available at [https://chuangtc.com](https://chuangtc.com)
 
 - 💬 Ask me about **AI, ML, big data**

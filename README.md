@@ -13,19 +13,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chuangtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chuangtc" height="30" width="40" /></a>
-<a href="https://medium.com/@chuangtcee" target="_blank"><img align="center" src="https://github.com/chuangtc/chuangtc/blob/main/img/medium.png" alt="@chuangtcee" height="30" width="40" /></a>
-<a href="https://jasonchuang.substack.com" target="_blank"><img align="center" src="https://github.com/chuangtc/chuangtc/blob/main/img/substack.png" alt="@chuangtcee" height="30" width="40" /></a>
-<a href="https://dev.to/chuangtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chuangtc" height="30" width="40" /></a>
-<a href="https://twitter.com/jasontgi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jasontgi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@aidatatools" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aidatatools" height="30" width="40" /></a>
-<a href="https://kaggle.com/chuangtcee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chuangtcee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chuangtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chuangtc" height="40" width="40" /></a>
+<a href="https://medium.com/@chuangtcee" target="_blank"><img align="center" src="https://github.com/chuangtc/chuangtc/raw/main/img/medium.png" alt="@chuangtcee" height="40" width="40" /></a>
+<a href="https://jasonchuang.substack.com" target="_blank"><img align="center" src="https://github.com/chuangtc/chuangtc/raw/main/img/substack.png" alt="@chuangtcee" height="40" width="40" /></a>
+<a href="https://dev.to/chuangtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chuangtc" height="40" width="40" /></a>
+<a href="https://twitter.com/jasontgi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jasontgi" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@aidatatools" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aidatatools" height="40" width="40" /></a>
+<a href="https://kaggle.com/chuangtcee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chuangtcee" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank"><img align="left" alt="GCP"  src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" alt="GCP" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/" target="_blank"><img alt="GCP" src="https://github.com/chuangtc/chuangtc/raw/main/img/GCP_logo.png" alt="GCP" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -34,8 +34,8 @@
 </p>
 <h3 align="left">Familiar OS:</h3>
 <p align="left"> 
-  <a href="https://www.apple.com/macos/ventura/" target="_blank"> <img src="https://github.com/chuangtc/chuangtc/blob/main/img/macos.png" alt="Mac OS" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/software-download/windows11" target="_blank"> <img src="https://github.com/chuangtc/chuangtc/blob/main/img/windows11.png" alt="Windows" width="40" height="40"/> </a> 
+  <a href="https://www.apple.com/macos/ventura/" target="_blank"> <img src="https://github.com/chuangtc/chuangtc/raw/main/img/macos.png" alt="Mac OS" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/software-download/windows11" target="_blank"> <img src="https://github.com/chuangtc/chuangtc/raw/main/img/windows11.png" alt="Windows" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
 </p>
 

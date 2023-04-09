@@ -16,6 +16,9 @@
 <a href="https://linkedin.com/in/chuangtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chuangtc" height="30" width="40" /></a>
 <a href="https://kaggle.com/chuangtcee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chuangtcee" height="30" width="40" /></a>
 <a href="https://medium.com/@chuangtcee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chuangtcee" height="30" width="40" /></a>
+<a href="https://dev.to/chuangtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chuangtc" height="30" width="40" /></a>
+<a href="https://twitter.com/jasontgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jasontgi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aidatatools" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aidatatools" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +32,8 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jasonchuang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jasonchuang" /></a></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-gli7krpvx-chuangtc.vercel.app/api?username=chuangtc&show_icons=true&locale=en" alt="chuangtc" /></p>

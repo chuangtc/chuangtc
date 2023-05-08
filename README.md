@@ -17,7 +17,7 @@
 <a href="https://medium.com/@chuangtcee" target="_blank"><img align="center" src="https://github.com/chuangtc/chuangtc/raw/main/img/medium.png" alt="@chuangtcee" height="40" width="40" /></a>
 <a href="https://jasonchuang.substack.com" target="_blank"><img align="center" src="https://github.com/chuangtc/chuangtc/raw/main/img/substack.png" alt="@chuangtcee" height="40" width="40" /></a>
 <a href="https://dev.to/chuangtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chuangtc" height="40" width="40" /></a>
-<a href="https://twitter.com/jasonchuangtech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jasonchuangtech" height="40" width="40" /></a>
+<a href="https://twitter.com/jasonchuangai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jasonchuangai" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@aidatatools" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aidatatools" height="40" width="40" /></a>
 <a href="https://kaggle.com/chuangtcee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chuangtcee" height="40" width="40" /></a>
 </p>

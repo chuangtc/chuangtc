@@ -42,4 +42,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jasonchuang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jasonchuang" /></a></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-gli7krpvx-chuangtc.vercel.app/api?username=chuangtc&show_icons=true&locale=en" alt="chuangtc" /></p>

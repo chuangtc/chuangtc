@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Chuang</h1>
-<h3 align="center">A professional who is good at artificial intelligence, machine learning, data engineering, and big data analytics</h3>
+<h3 align="center">A professional who's goal is to become top Pragmatic AI Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangtc&label=Profile%20views&color=0e75b6&style=flat" alt="chuangtc" /> </p>
 

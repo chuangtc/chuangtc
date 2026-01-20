@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangtc&label=Profile%20views&color=0e75b6&style=flat" alt="chuangtc" /> </p>
 
-- 🎓 NVIDIA Certified Professional | <a href="https://www.credly.com/badges/29bd8003-3467-49a5-a2cd-a91831196a02" target="_blank">Ageentic AI</a>
+- 🎓 NVIDIA Certified Professional | <a href="https://www.credly.com/badges/29bd8003-3467-49a5-a2cd-a91831196a02" target="_blank">Agentic AI</a>
   
 - 🎓 Google Cloud Certified Professional Data Engineer
  

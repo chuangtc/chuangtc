@@ -5,7 +5,7 @@
 
 - 🎓 NVIDIA Certified Professional | <a href="https://www.credly.com/badges/29bd8003-3467-49a5-a2cd-a91831196a02" target="_blank">Ageentic AI</a>
   
-- 🎓 Google Cloud Certified Professional Data Engineeer
+- 🎓 Google Cloud Certified Professional Data Engineer
  
 - 👨‍💻 All of my projects are available at [https://chuangtc.com](https://chuangtc.com)
 
